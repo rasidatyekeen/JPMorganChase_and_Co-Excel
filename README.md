@@ -1,4 +1,4 @@
-# JPMorganChase_and_Co-Excel
+# JPMorganChase and Co: Excel
 
 ## Account Dynamics and Product Performance Dashboard
 
